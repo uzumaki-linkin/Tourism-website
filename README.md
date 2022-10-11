@@ -1,2 +1,2 @@
 # Tourism-website
-A tourism website created for PBL
+A tourism website created for assignment.
